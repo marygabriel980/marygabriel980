@@ -5,7 +5,7 @@ Web developer and designer
 --------------------------
 
 * 🌍  I'm based in Kaduna
-* ✉️  You can contact me at [marygabriel@gmail.com](mailto:marygabriel@gmail.com)
+* ✉️  You can contact me at [marygabrielug@gmail.com](mailto:marygabrielug@gmail.com)
 * 🧠  I'm learning html and css
 * But i'm a beginner
 ### Skills
